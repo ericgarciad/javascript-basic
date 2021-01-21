@@ -1,0 +1,52 @@
+body {
+    background-color: rgb(180, 180, 180);
+}
+
+td,
+th {
+    border: 2px solid #070707;
+    text-align: center;
+
+}
+
+td button {
+    padding: 18px;
+    background-color: rgb(116, 113, 113);
+
+}
+
+td button:hover {
+    background-color: gray;
+
+}
+
+#resultatCalculadora {
+    text-align: left;
+    padding: 18px;
+    background-color: rgb(11, 102, 11);
+}
+
+#resultatCalc {
+    width: 100%;
+}
+
+.ampleCasellaCalculadora {
+    width: 60px;
+}
+
+.colorNivellExercicis {
+    color: rgb(17, 0, 255);
+}
+
+.fontCalculadora {
+    font-family: 'Orbitron', sans-serif;
+}
+
+.centrarText {
+    text-align: center;
+}
+
+.centrarElement {
+    margin-left: auto;
+    margin-right: auto;
+}
